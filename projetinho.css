@@ -1,0 +1,36 @@
+body {
+  background-color: #f7bdff;
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: Black;
+  text-align: center;
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+
+fieldset > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+label {
+  font-size: 20px;
+}
+
+video {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  color: black;
+}
